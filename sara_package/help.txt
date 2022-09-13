@@ -1,0 +1,5 @@
+1. Make classes for functions.
+2. Make a —init—file and use it to call the classes.
+3. Create a setup file that isn't in the folder with the rest of the files.
+4. use setuptools module and import setup.
+5. To install a package that includes a setup.py file, open a command or terminal window and: cd into the root directory where setup. py is located. Enter: python setup.py install.
